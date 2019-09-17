@@ -1,4 +1,10 @@
 .Image
 {
-text-align:  center;
+text-align: center;
+}
+
+.Texte
+{
+	text-align: center;
+	padding: 50ù;
 }

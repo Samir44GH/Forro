@@ -5,6 +5,23 @@ text-align: center;
 
 .Texte
 {
+	width: 500px;
+	margin: auto;
+	text-align: justify;
+	padding:12px;
+	margin-bottom: 20px;
+}
+
+.Horaires
+{
+	width: 500px;
+	margin: auto;
 	text-align: center;
-	padding: 50ù;
+	padding:12px;
+	margin-bottom: 20px;
+}
+
+.Contact
+{
+	text-align: center;
 }

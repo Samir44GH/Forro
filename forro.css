@@ -30,7 +30,8 @@ body
 {
 	background-image: url("Forro2.jpg");
 	background-attachment: fixed;
-	background-repeat: repeat-y;
+	background-repeat: repeat;
+	background-position: right left;
 } 
 
 p

@@ -1,9 +1,9 @@
-.Image
+.image
 {
 text-align: center;
 }
 
-.Texte
+.texte
 {
 	width: 500px;
 	margin: auto;
@@ -12,7 +12,7 @@ text-align: center;
 	margin-bottom: 20px;
 }
 
-.Horaires
+.horaires
 {
 	width: 500px;
 	margin: auto;
@@ -21,12 +21,21 @@ text-align: center;
 	margin-bottom: 20px;
 }
 
-.Contact
+.contact
 {
 	text-align: center;
 }
 
 body
 {
-	background-image: url("C:\Users\Utilisateur\Documents\SublimText\Forro\Forro2.jpg") fixed no-repeat;
+	background-image: url("Forro2.jpg");
+	background-attachment: fixed;
+	background-repeat: repeat-y;
 } 
+
+p
+{
+color: rgb(252, 3, 3);
+font-size: 2em;
+font-family: : Comic Sans Ms;
+}

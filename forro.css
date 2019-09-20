@@ -1,25 +1,30 @@
-.image
-{
-text-align: center;
-}
-
 .texte
 {
 	text-align: center;
 }
 
-.horaires
+.image1
 {
-	width: 700px;
-	margin: auto;
-	text-align: center;
-	padding:12px;
-	margin-bottom: 20px;
+	float: left;
+	width:400px;
+	height: 400px;
 }
 
+.image2
+{
+	float: right;
+	width:350px;
+	height: 350px;
+}
+.horaires
+{
+	text-align: center;
+}
 .contact
 {
 	text-align: center;
+	background-color: rgb(232 232 232);
+
 }
 
 body
@@ -33,13 +38,14 @@ p
 color: black;
 font-size: 2.5em;
 font-family: Segoe Print, Georgia, serif;
-background-color: rgb(222 222 222);
+background-color: rgb(232 232 232);
 }
 
-#présentation
+.présentation
 {
 	text-align:center; 
 }
+
 h1
 {
 	font-size:7em;

@@ -5,11 +5,7 @@ text-align: center;
 
 .texte
 {
-	width: 900px;
-	margin: auto;
-	text-align: justify;
-	padding:12px;
-	margin-bottom: 20px;
+	text-align: center;
 }
 
 .horaires
